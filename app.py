@@ -1,5 +1,4 @@
-Predicting Solar Energy Production.ipynb
-app.py
-requirements.txt
-solar_model.pkl
-solar_encoder.pkl
+import streamlit as st
+
+st.title("Solar Energy Production Predictor")
+st.write("App is running successfully!")
